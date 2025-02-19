@@ -95,59 +95,59 @@ positives
 surges  
 
 # Decreasing Words
-cut back 
-higher 
-decreases 
-move away 
-reductions
-cut backs 
-immunize 
-moves away 
-remove
-decrease 
-immunizes 
-move from 
-removes
-decreases 
-immunizing 
-moves from 
-suppress
-decreasing 
-is not 
-negative 
-suppresses
-decreasings 
-knocks off 
-negatively 
-unlikelies
-fall 
-knock offs 
-negatives 
-unlikely
-fallen 
-less 
-no 
-weak
-falling 
-lesser 
-not all 
-weaken
-falls 
-lessens 
-not so 
-weakening
-few 
-little 
-reduce
-fewer 
-littles 
-reduces
-get out 
-low 
-reducing
-gets out 
-lower 
-reducings
-higher decrease 
-lowers 
-reduction
+cut back  
+higher  
+decreases   
+move away   
+reductions  
+cut backs   
+immunize   
+moves away   
+remove  
+decrease   
+immunizes   
+move from   
+removes  
+decreases   
+immunizing   
+moves from   
+suppress  
+decreasing   
+is not   
+negative   
+suppresses  
+decreasings   
+knocks off   
+negatively   
+unlikelies  
+fall   
+knock offs   
+negatives   
+unlikely  
+fallen   
+less   
+no   
+weak  
+falling   
+lesser   
+not all   
+weaken  
+falls   
+lessens   
+not so   
+weakening  
+few   
+little   
+reduce  
+fewer   
+littles   
+reduces  
+get out   
+low   
+reducing  
+gets out   
+lower   
+reducings  
+higher decrease   
+lowers   
+reduction  
